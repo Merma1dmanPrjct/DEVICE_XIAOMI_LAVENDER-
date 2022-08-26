@@ -15,4 +15,4 @@
 | Rear camera 2 | 2 MP, f/2.4, depth sensor or 5 MP, f/2.2, depth sensor                    |
 | Front camera | 13 MP, f/2.0, 1.12µm|
 # Android_Device_Xiaomi_Lavender-
-# Android_Device_Xiaomi_Lavender-
+
