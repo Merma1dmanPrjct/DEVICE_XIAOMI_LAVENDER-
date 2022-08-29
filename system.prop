@@ -1,0 +1,39 @@
+# Graphics Unlocker
+ro.product.model=Mi 10 Pro
+ro.product.system.model=Mi 10 Pro
+ro.product.vendor.model=Mi 10 Pro
+ro.product.odm.model=Mi 10 Pro
+
+#Netflix custom property
+ro.netflix.bsp_rev=Q660-13149-1
+
+# RootBeer,Microsoft
+ro.build.tags=release-keys
+# SafetyNet ro.boot.flash.locked=1
+ro.boot.verifiedbootstate=green 
+ro.boot.veritymode=enforcing
+ro.boot.vbmeta.device_state=locked
+ro.boot.warranty_bit=0
+
+#Better Scrolling
+windowsmgr.max_events_per_sec=180
+view.scroll_friction=4
+ro.min_pointer_dur=4
+touch.deviceType=touchScreen
+
+#Fast Response
+view.touch_slop=1
+view.scroll_friction=0
+ro.max.fling_velocity=18000
+ro.min.fling_velocity=6000
+ro.product.multi_touch_enabled=true
+ro.product.max_num_touch=10
+ro.securestorage.knox=false
+security.mdpp=none
+security.mdpp.result=none
+af.resampler.quality=255
+persist.sys.scrollingcache=3
+persist.af.resampler.quality=255
+persist.dev.pm.dyn_samplingrate=1
+persist.service.lgospd.enable=0
+persist.service.pcsync.enable=0
