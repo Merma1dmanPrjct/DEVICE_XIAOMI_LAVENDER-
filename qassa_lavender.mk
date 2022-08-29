@@ -15,8 +15,9 @@ $(call inherit-product, device/xiaomi/lavender/device.mk)
 
 # Inherit some common Qassa stuff.
 $(call inherit-product, vendor/qassa/config/common_full_phone.mk)
-USE_GAPPS := true 
+WITH_GAPPS :=true
 TARGET_GAPPS_ARCH := arm64 
+TARGET_INCLUDE_STOCK_ARCORE := true
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := qassa_lavender
